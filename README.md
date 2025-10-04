@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project: Real-Time Ping Pong
 
 This project is a terminal-based ping pong game using **Pygame**. It introduces students to interactive game design using object-oriented principles and real-time graphical rendering.
@@ -104,3 +105,6 @@ pygame-pingpong/
 - [] Dependencies listed in `requirements.txt`
 - [] README is followed during setup and testing
 - [] Codebase is clean, modular, and understandable
+=======
+# SE-lab-04
+>>>>>>> e1a410a859c7d88d765bee1829d6e98b98db9e65
